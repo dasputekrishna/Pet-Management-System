@@ -18,7 +18,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone <>
+git clone <https://github.com/dasputekrishna/Pet-Management-System>
 
 Navigate to the project directory:
 bash
